@@ -1,2 +1,6 @@
 # TOP-landing-page
 Final project of the CSS sections in the TOP curriculum.
+<br>
+##10th March 2024
+This is the initial submission for the project, I will be updating this as I learn more.
+[Click to see the page]([URL to navigate](https://saad-a-sheikh.github.io/TOP-landing-page/)https://saad-a-sheikh.github.io/TOP-landing-page/)
