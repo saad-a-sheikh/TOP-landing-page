@@ -1,0 +1,172 @@
+#top,
+.awesome,
+footer{
+  background-color: #1f2937;
+}
+
+.text-big{
+  font-size: 48px;
+  font-weight: 900;
+  color: #f9faf8;
+}
+
+.quote{
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  background-color: #e5e7eb;
+  display: flex;
+  align-items: center;
+}
+
+.quoter{
+  text-align: end;
+  font-weight: 900;
+  margin-right: 10%;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 16px;
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.content{
+  flex: 1;
+}
+
+section{
+  display: flex;
+  flex: 1;
+}
+
+.links,
+.text-small,
+footer{
+  font-size: 18px;
+}
+
+.logo{
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+button{
+  background-color: #3882f6;
+  border: 2px solid #3882f6;
+  border-radius: 5px;
+  width: 6vw;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+}
+
+.info-section{
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 52px;
+  margin: 0;
+  padding: 0;
+}
+
+.image{
+  height: 100px;
+  width: 100px;
+  border: 3px solid #3882f6;
+  border-radius: 10%;
+}
+
+.info-header{
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.info-container{
+  display: flex;
+  gap: 8px;
+}
+
+.info{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dark{
+  color: #1f2937;
+}
+
+.awesome{
+  padding: 2vw;
+}
+
+.awesome-left{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  flex-wrap: wrap;
+  flex: 1;
+  padding: 1vw;
+}
+
+.awesome-right{
+  background-color: #6d747d;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-section{
+  justify-content: center;
+  align-items: center;
+}
+
+.cta{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5vw 0 1.5vw 0;
+  background-color: #3882f6;
+  text-align: start;
+  border-radius: 5px;
+}
+
+.text-1{
+  font-size: 24px;
+}
+
+.cta button{
+  border: 2px solid #e5e7eb;
+  flex: 1 1 auto;
+  margin-left: 10px;
+}
+
+#top,
+.awesome,
+.quote,
+.info-section,
+.cta{
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.light{
+  color: #e5e7eb;
+}
